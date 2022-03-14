@@ -1,0 +1,8 @@
+{
+  "name": "Study Buddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2c82bda5"
+}
